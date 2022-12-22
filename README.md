@@ -1,7 +1,5 @@
 # first_boot
-Python script that makes all the necessary apt installs, updates and upgrades
-
-Tested on Debian 11
+Python script that makes all the necessary apt installs, updates and upgrades, tested on Debian 11
 
 V1.0:
   - Run scripts separetely. From 1 to 5.
